@@ -1,2 +1,3 @@
 Testando repo 1
 Alterando arquivo de texto.txt
+Testando update do clone
