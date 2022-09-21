@@ -6,4 +6,8 @@ alterção p/ o pull
 Testando update do clone
 Testando update clone 2
 alteracao 3
+<<<<<<< HEAD
 alteração branch 2
+=======
+alteração branch
+>>>>>>> 1_branch
